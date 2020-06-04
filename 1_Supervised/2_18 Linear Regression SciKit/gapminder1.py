@@ -4,7 +4,6 @@
 # TODO: Add import statements
 from sklearn.linear_model import LinearRegression
 
-
 import numpy as np  #Deal with math
 import pandas as pd #Deal with data
 import matplotlib.pyplot as plt
