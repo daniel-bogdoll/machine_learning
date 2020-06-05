@@ -2,7 +2,6 @@ from sklearn.linear_model import LinearRegression
 from sklearn.datasets import load_boston
 
 import numpy as np
-import matplotlib.pyplot as plt
 
 # Load the data from the boston house-prices dataset 
 boston_data = load_boston()
