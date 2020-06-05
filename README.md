@@ -3,7 +3,7 @@ Machine Learning Engineer Nanodegree
 https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230
 
 # Supervised Learning
-## Linear Regression: Concepts
+## Linear Regression
 ### Summary
 - Gradient descent as a method to optimize your linear models.
 - Multiple Linear Regression as a technique for when you are comparing more than two variables.
