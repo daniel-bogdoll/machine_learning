@@ -43,7 +43,9 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "metadata": {},
+   "metadata": {
+    "scrolled": false
+   },
    "outputs": [
     {
      "data": {
@@ -1045,15 +1047,7 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "metadata": {
-    "tags": [
-     "outputPrepend",
-     "outputPrepend",
-     "outputPrepend",
-     "outputPrepend",
-     "outputPrepend"
-    ]
-   },
+   "metadata": {},
    "outputs": [
     {
      "name": "stdout",
@@ -1554,6 +1548,7 @@
   }
  ],
  "metadata": {
+  "celltoolbar": "Edit Metadata",
   "kernelspec": {
    "display_name": "Python 3",
    "language": "python",
