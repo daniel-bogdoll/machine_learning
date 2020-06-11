@@ -1,7 +1,8 @@
-# [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230)
+# Udacity Machine Learning
+This repository covers my participation in the two courses [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230) and [Udacity Reinforcement Learning Course](https://classroom.udacity.com/courses/ud600)
 
-# Overview
-Three tiers of machine learning regularly recognized today:
+## Overview
+The courses cover the tiers of machine learning regularly recognized today:
 ### Supervised Machine Learning
 Studying labeled data, these techniques can extend patterns to unlabeled data.
 Classification: Categorial Outcomes
@@ -14,15 +15,26 @@ By learning patterns even when data do not have labels, these techniques can gro
 ### Reinforcement Machine Learning
 By rewarding actions, these techniques focus on finding a balance between exploration (of uncharted territory) and exploitation (of current knowledge).
 
-# Supervised Learning
-## Linear Regression
-### Summary
-- Gradient descent as a method to optimize your linear models.
-- Multiple Linear Regression as a technique for when you are comparing more than two variables.
-- Polynomial Regression for relationships between variables that aren't linear.
-- Regularization as a technique to assure that your models will not only fit to the data available, but also extend to new situations.
-### Outlook
-In this lesson, you were predicting quantitative values. Predicting quantitative values is often just considered a Regression problem. In the next lesson, you will be introduced to predicting a category, which is called a Classification problem.
+## [Supervised Learning](https://github.com/slisystem/udacity_ml/tree/master/1_Supervised)
+- 1: Introduction
+- 2: Linear Regression
+- 3: Perceptron Algorithm
+- 4: Decision Trees
+- 5: Naive Bayes
+- 6: Support Vector Machines
+- 7: Ensemble Methods
+- 8: Model Evaluation Metrics
+- 9: Training and Tuning
+- 10: Full-Scale Project
 
-# [Udacity Reinforcement Learning Course](https://classroom.udacity.com/courses/ud600)
+## [Deep Learning](https://github.com/slisystem/udacity_ml/tree/master/2_Deep)
+- 1: Introduction
+- 2: Gradient Descent
+- 3: Training Techniques
+- 4: TensorFlow
+- 5: Image Classifier Project
+
+## Unsupervised Learning
+
+## Reinforcement Learning
 
