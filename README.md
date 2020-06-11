@@ -15,7 +15,7 @@ By learning patterns even when data do not have labels, these techniques can gro
 ### Reinforcement Machine Learning
 By rewarding actions, these techniques focus on finding a balance between exploration (of uncharted territory) and exploitation (of current knowledge).
 
-# Supervised Learning
+# [Supervised Learning](https://github.com/slisystem/udacity_ml/tree/master/1_Supervised)
 ## 1: Introduction
 ## 2: Linear Regression
 ## 3: Perceptron Algorithm
@@ -27,7 +27,7 @@ By rewarding actions, these techniques focus on finding a balance between explor
 ## 9: Training and Tuning
 ## 10: Full-Scale Project
 
-# Deep Learning
+# [Deep Learning](https://github.com/slisystem/udacity_ml/tree/master/2_Deep)
 ## 1: Introduction
 ## 2: Gradient Descent
 ## 3: Training Techniques
