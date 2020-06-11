@@ -1,4 +1,4 @@
-# [Udacity Machine Learning Engineer Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230)
+# [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230)
 
 # Overview
 Three tiers of machine learning regularly recognized today:
@@ -23,3 +23,6 @@ By rewarding actions, these techniques focus on finding a balance between explor
 - Regularization as a technique to assure that your models will not only fit to the data available, but also extend to new situations.
 ### Outlook
 In this lesson, you were predicting quantitative values. Predicting quantitative values is often just considered a Regression problem. In the next lesson, you will be introduced to predicting a category, which is called a Classification problem.
+
+# [Udacity Reinforcement Learning Course](https://classroom.udacity.com/courses/ud600)
+
