@@ -1,8 +1,8 @@
-# [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230)
-# [Udacity Reinforcement Learning Course](https://classroom.udacity.com/courses/ud600)
+# Udacity Machine Learning
+This repository covers my participation in the two courses [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230) and [Udacity Reinforcement Learning Course](https://classroom.udacity.com/courses/ud600)
 
 ## Overview
-Three tiers of machine learning regularly recognized today:
+The courses cover the tiers of machine learning regularly recognized today:
 ### Supervised Machine Learning
 Studying labeled data, these techniques can extend patterns to unlabeled data.
 Classification: Categorial Outcomes
