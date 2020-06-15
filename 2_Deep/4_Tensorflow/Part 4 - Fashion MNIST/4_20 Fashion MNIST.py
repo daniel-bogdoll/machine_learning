@@ -101,7 +101,7 @@ ax1.set_title(class_names[first_label])
 ax2.barh(np.arange(10), ps[0])
 ax2.set_aspect(0.1)
 ax2.set_yticks(np.arange(10))
-ax2.set_yticklabels(class_names, size='small');
+ax2.set_yticklabels(class_names, size='small')
 ax2.set_title('Class Probability')
 ax2.set_xlim(0, 1.1)
 plt.tight_layout()
