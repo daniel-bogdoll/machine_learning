@@ -3,16 +3,16 @@ This repository covers my participation in the two courses [Udacity Machine Lear
 
 ## Overview
 The courses cover the tiers of machine learning regularly recognized today:
-### Supervised Machine Learning
+### Supervised Learning
 Studying labeled data, these techniques can extend patterns to unlabeled data.
 Classification: Categorial Outcomes
 Regression: Numeric Outcomes
 Deep learning can be used within supervised machine learning to create techniques that are better at image recognition or identifying when a movie was created based on the video footage.
 
-### Unsupervised Machine Learning
+### Unsupervised Learning
 By learning patterns even when data do not have labels, these techniques can group items together that are likely to be similar.
 
-### Reinforcement Machine Learning
+### Reinforcement Learning
 By rewarding actions, these techniques focus on finding a balance between exploration (of uncharted territory) and exploitation (of current knowledge).
 
 ## [Supervised Learning](https://github.com/slisystem/udacity_ml/tree/master/1_Supervised)
@@ -25,16 +25,33 @@ By rewarding actions, these techniques focus on finding a balance between explor
 - 7: Ensemble Methods
 - 8: Model Evaluation Metrics
 - 9: Training and Tuning
-- 10: Full-Scale Project
+- 10: Project: Income Prediction
 
-## [Deep Learning](https://github.com/slisystem/udacity_ml/tree/master/2_Deep)
+### [Deep Learning](https://github.com/slisystem/udacity_ml/tree/master/2_Deep)
 - 1: Introduction
 - 2: Gradient Descent
 - 3: Training Techniques
-- 4: TensorFlow
-- 5: Image Classifier Project
+- 4: TensorFlow Usage
+- 5: Project: Image Classification
 
 ## Unsupervised Learning
+- 1: K-Means Clustering
+- 2: Hierarchical and Density Clustering
+- 3: Gaussian Mixture Model Clustering
+- 4: Dimensionality Reduction and PCA
+- 5: Random Projection and ICA
+- 6: Project: Customer Segment Identification
 
 ## Reinforcement Learning
+- 1: Introduction
+- 2: TD and Friends
+- 3: Convergence
+- 4: AAA
+- 5: Rewards
+- 6: Exploration
+- 7: Generalization
+- 8: Partially Observable MDPs
+- 9: Options
+- 10: Game Theory
+- 11: CCC
 
