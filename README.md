@@ -34,7 +34,7 @@ By rewarding actions, these techniques focus on finding a balance between explor
 - 4: TensorFlow Usage
 - 5: Project: Image Classification
 
-## Unsupervised Learning
+## [Unsupervised Learning](https://github.com/slisystem/udacity_ml/tree/master/3_Unsupervised/)
 - 1: K-Means Clustering
 - 2: Hierarchical and Density Clustering
 - 3: Gaussian Mixture Model Clustering
