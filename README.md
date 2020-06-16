@@ -3,16 +3,16 @@ This repository covers my participation in the two courses [Udacity Machine Lear
 
 ## Overview
 The courses cover the tiers of machine learning regularly recognized today:
-### Supervised Machine Learning
+### Supervised Learning
 Studying labeled data, these techniques can extend patterns to unlabeled data.
 Classification: Categorial Outcomes
 Regression: Numeric Outcomes
 Deep learning can be used within supervised machine learning to create techniques that are better at image recognition or identifying when a movie was created based on the video footage.
 
-### Unsupervised Machine Learning
+### Unsupervised Learning
 By learning patterns even when data do not have labels, these techniques can group items together that are likely to be similar.
 
-### Reinforcement Machine Learning
+### Reinforcement Learning
 By rewarding actions, these techniques focus on finding a balance between exploration (of uncharted territory) and exploitation (of current knowledge).
 
 ## [Supervised Learning](https://github.com/slisystem/udacity_ml/tree/master/1_Supervised)
