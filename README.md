@@ -25,16 +25,22 @@ By rewarding actions, these techniques focus on finding a balance between explor
 - 7: Ensemble Methods
 - 8: Model Evaluation Metrics
 - 9: Training and Tuning
-- 10: Full-Scale Project
+- 10: Project: Income Prediction
 
 ## [Deep Learning](https://github.com/slisystem/udacity_ml/tree/master/2_Deep)
 - 1: Introduction
 - 2: Gradient Descent
 - 3: Training Techniques
 - 4: TensorFlow
-- 5: Image Classifier Project
+- 5: Project: Image Classification
 
 ## Unsupervised Learning
+- 1: K-Means Clustering
+- 2: DBSCAN Clustering
+- 3: Gaussian Mixture Model Clustering
+- 4: Dimensionality Reduction and PCA
+- 5: Random Projection and ICA
+- 6: Project: Customer Segment Identification
 
 ## Reinforcement Learning
 
