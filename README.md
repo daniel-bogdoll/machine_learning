@@ -27,11 +27,11 @@ By rewarding actions, these techniques focus on finding a balance between explor
 - 9: Training and Tuning
 - 10: Project: Income Prediction
 
-## [Deep Learning](https://github.com/slisystem/udacity_ml/tree/master/2_Deep)
+### [Deep Learning](https://github.com/slisystem/udacity_ml/tree/master/2_Deep)
 - 1: Introduction
 - 2: Gradient Descent
 - 3: Training Techniques
-- 4: TensorFlow
+- 4: TensorFlow Usage
 - 5: Project: Image Classification
 
 ## Unsupervised Learning
