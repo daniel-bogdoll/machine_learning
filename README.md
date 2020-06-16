@@ -43,4 +43,15 @@ By rewarding actions, these techniques focus on finding a balance between explor
 - 6: Project: Customer Segment Identification
 
 ## Reinforcement Learning
+- 1: Introduction
+- 2: TD and Friends
+- 3: Convergence
+- 4: AAA
+- 5: Rewards
+- 6: Exploration
+- 7: Generalization
+- 8: Partially Observable MDPs
+- 9: Options
+- 10: Game Theory
+- 11: CCC
 
