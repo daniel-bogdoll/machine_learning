@@ -36,7 +36,7 @@ By rewarding actions, these techniques focus on finding a balance between explor
 
 ## Unsupervised Learning
 - 1: K-Means Clustering
-- 2: DBSCAN Clustering
+- 2: Hierarchical and Density Clustering
 - 3: Gaussian Mixture Model Clustering
 - 4: Dimensionality Reduction and PCA
 - 5: Random Projection and ICA
