@@ -22,7 +22,7 @@ By rewarding actions, these techniques focus on finding a balance between explor
 - 4: Decision Trees
 - 5: Naive Bayes
 - 6: Support Vector Machines
-- 7: Ensemble Methods (Random Forests, AdaBoost)
+- 7: Ensemble Methods
 - 8: Model Evaluation Metrics
 - 9: Training and Tuning
 - 10: Project: Income Prediction
