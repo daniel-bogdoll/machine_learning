@@ -1,5 +1,5 @@
 # Udacity Machine Learning
-This repository covers my participation in the two courses [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230) and [Udacity Reinforcement Learning Course](https://classroom.udacity.com/courses/ud600)
+This repository covers my participation in the courses [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230) and [Udacity Reinforcement Learning Course](https://classroom.udacity.com/courses/ud600)
 
 ## Overview
 The courses cover the tiers of machine learning regularly recognized today:
@@ -43,7 +43,7 @@ By rewarding actions, these techniques focus on finding a balance between explor
 - 6: Project: Customer Segment Identification
 
 ## Reinforcement Learning
-- 1: Introduction
+- 1: Markov Decision Processes
 - 2: TD and Friends
 - 3: Convergence
 - 4: AAA
