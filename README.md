@@ -1,4 +1,5 @@
 # Udacity Machine Learning
+
 This repository covers my participation in the courses [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230) and [Udacity Reinforcement Learning Course](https://classroom.udacity.com/courses/ud600)
 
 ## Overview
@@ -55,3 +56,4 @@ By rewarding actions, these techniques focus on finding a balance between explor
 - 10: Game Theory
 - 11: CCC
 
+![Udacity Certificate](certificate.png)
