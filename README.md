@@ -46,6 +46,9 @@ By rewarding actions, these techniques focus on finding a balance between explor
 - 6: Project: Customer Segment Identification
 
 ## Reinforcement Learning
-- 1: Markov Decision Processes
+- 1: K-Armed Bandit 
+- 2: Markov Decision Processes
+- 3: Values Functions & Bellman Equations
+- 4:Dynamic Programming
 
 ![Udacity Certificate](certificate.png)
