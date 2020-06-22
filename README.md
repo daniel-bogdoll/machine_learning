@@ -1,4 +1,4 @@
-# Udacity Machine Learning
+# Machine Learning
 
 This repository covers my participation in the courses
 - [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230) and
@@ -18,7 +18,7 @@ By learning patterns even when data do not have labels, these techniques can gro
 ### Reinforcement Learning
 By rewarding actions, these techniques focus on finding a balance between exploration (of uncharted territory) and exploitation (of current knowledge).
 
-## [Supervised Learning](https://github.com/slisystem/udacity_ml/tree/master/1_Supervised)
+## [Supervised Learning](https://github.com/slisystem/machine_learning/tree/master/1_Supervised)
 - 1: Introduction
 - 2: Linear Regression
 - 3: Perceptron Algorithm
@@ -30,14 +30,14 @@ By rewarding actions, these techniques focus on finding a balance between explor
 - 9: Training and Tuning
 - 10: Project: Income Prediction
 
-### [Deep Learning](https://github.com/slisystem/udacity_ml/tree/master/2_Deep)
+### [Deep Learning](https://github.com/slisystem/machine_learning/tree/master/2_Deep)
 - 1: Introduction
 - 2: Gradient Descent
 - 3: Training Techniques
 - 4: TensorFlow Usage
 - 5: Project: Image Classification
 
-## [Unsupervised Learning](https://github.com/slisystem/udacity_ml/tree/master/3_Unsupervised/)
+## [Unsupervised Learning](https://github.com/slisystem/machine_learning/tree/master/3_Unsupervised/)
 - 1: K-Means Clustering
 - 2: Hierarchical and Density Clustering
 - 3: Gaussian Mixture Model Clustering
@@ -45,7 +45,7 @@ By rewarding actions, these techniques focus on finding a balance between explor
 - 5: Random Projection and ICA
 - 6: Project: Customer Segment Identification
 
-## Reinforcement Learning
+## [Reinforcement Learning](https://github.com/slisystem/machine_learning/tree/master/4_Reinforcement/)
 - 1: K-Armed Bandit 
 - 2: Markov Decision Processes
 - 3: Values Functions & Bellman Equations
