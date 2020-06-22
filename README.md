@@ -1,6 +1,8 @@
 # Udacity Machine Learning
 
-This repository covers my participation in the courses [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230) and [Udacity Reinforcement Learning Course](https://classroom.udacity.com/courses/ud600)
+This repository covers my participation in the courses
+- [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230) and
+- [Coursera Reinforcement Learning](https://www.coursera.org/specializations/reinforcement-learning)
 
 ## Overview
 The courses cover the tiers of machine learning regularly recognized today:
@@ -45,15 +47,5 @@ By rewarding actions, these techniques focus on finding a balance between explor
 
 ## Reinforcement Learning
 - 1: Markov Decision Processes
-- 2: TD and Friends
-- 3: Convergence
-- 4: AAA
-- 5: Rewards
-- 6: Exploration
-- 7: Generalization
-- 8: Partially Observable MDPs
-- 9: Options
-- 10: Game Theory
-- 11: CCC
 
 ![Udacity Certificate](certificate.png)
