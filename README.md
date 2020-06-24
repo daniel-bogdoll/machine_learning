@@ -2,12 +2,13 @@
 
 This repository covers my participation in the courses
 
-- [RWTH Computer Vision](https://www.vision.rwth-aachen.de/course/22/) (2018)
-- [RWTH Artificial Neural Networks](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1543&pOrgNr=14549) (2019)
-- [RWTH Machine Learning](https://www.vision.rwth-aachen.de/course/31/) (2019)
-- [RWTH Data Mining in the Domain of Technical Processes](https://online.rwth-aachen.de/RWTHonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/329079?$ctx=design=ca;lang=en) (2019)
-- [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230) (2020)
-- [Coursera Reinforcement Learning](https://www.coursera.org/specializations/reinforcement-learning) (2020)
+- [RWTH Computer Vision](https://www.vision.rwth-aachen.de/course/22/) (2018) :white_check_mark:
+- [RWTH Artificial Neural Networks](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1543&pOrgNr=14549) (2019) :white_check_mark:
+- [RWTH Machine Learning](https://www.vision.rwth-aachen.de/course/31/) (2019) :white_check_mark:
+- [RWTH Data Mining in the Domain of Technical Processes](https://online.rwth-aachen.de/RWTHonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/329079?$ctx=design=ca;lang=en) (2019) :white_check_mark:
+- [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230) (2020) :white_check_mark:
+- [Coursera Reinforcement Learning](https://www.coursera.org/specializations/reinforcement-learning) (2020) :computer:
+- [Deep Reinforcement Learning Course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) :soon:
 
 ## Overview
 The courses cover the tiers of machine learning regularly recognized today:
