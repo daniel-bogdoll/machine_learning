@@ -69,4 +69,5 @@ By rewarding actions, these techniques focus on finding a balance between explor
 - 3: Values Functions & Bellman Equations
 - 4:Dynamic Programming
 
-![Udacity Certificate](certificate.png)
+![Udacity Certificate](certificate_udacity.png)
+![Coursera Certificate #1](certificate_coursera_1.png)
