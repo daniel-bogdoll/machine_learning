@@ -8,7 +8,7 @@ This repository covers my participation in the courses
 :white_check_mark: [RWTH Data Mining in the Domain of Technical Processes](https://online.rwth-aachen.de/RWTHonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/329079?$ctx=design=ca;lang=en) (2019)\
 :white_check_mark: [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230) (2020)\
 :white_check_mark: [Coursera Reinforcement Learning: Fundamentals](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning) (2020)\
-:white_check_mark: [Coursera Reinforcement Learning: Sample-based Learning Methods](https://www.coursera.org/learn/sample-based-learning-methods)\
+:white_check_mark: [Coursera Reinforcement Learning: Sample-based Learning Methods](https://www.coursera.org/learn/sample-based-learning-methods) (2020)\
 :soon: [Deep Reinforcement Learning Course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
 
 ## Overview
