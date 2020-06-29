@@ -70,7 +70,7 @@ By rewarding actions, these techniques focus on finding a balance between explor
 - 3: Value Functions & Bellman Equations
 - 4: Dynamic Programming
 
-### Sample Based Learning
+### [Sample Based Learning](https://github.com/slisystem/machine_learning/tree/master/4_Reinforcement/)
 - 1: Monte Carlo Methods
 - 2: Temporal Difference Learning
 - 3: Sarsa & Q-Learning
