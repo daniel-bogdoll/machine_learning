@@ -62,19 +62,18 @@ By rewarding actions, these techniques focus on finding a balance between explor
 - 6: Project: Customer Segment Identification
 - 7: Self-Organizing Map SOM
 - 8: Adaptive Resonance Theory ART
-- 9: Pulse-coupled neural network PCNN
+- 9: Pulse-coupled Neural Networks PCNN
 
 ## [Reinforcement Learning](https://github.com/slisystem/machine_learning/tree/master/4_Reinforcement/)
 - 1: Exploration-Exploitation Trade-Off
 - 2: Markov Decision Processes
 - 3: Value Functions & Bellman Equations
 - 4: Dynamic Programming
-
-### [Sample Based Learning](https://github.com/slisystem/machine_learning/tree/master/4_Reinforcement/)
-- 1: Monte Carlo Methods
-- 2: Temporal Difference Learning
-- 3: Sarsa & Q-Learning
-- 4: Dyna Architecture
+- 5: Monte Carlo Methods
+- 6: Temporal Difference Learning
+- 7: SARSA & Q-Learning
+- 8: Dyna Architecture
+- 9: Neural Network Function Approximation
 
 ![Udacity Certificate](certificate_udacity.png)
 ![Coursera Certificate #1](certificate_coursera_1.png)
