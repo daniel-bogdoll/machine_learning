@@ -8,7 +8,7 @@ This repository covers my participation in the courses
 :white_check_mark: [RWTH Data Mining in the Domain of Technical Processes](https://online.rwth-aachen.de/RWTHonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/329079?$ctx=design=ca;lang=en) (2019)\
 :white_check_mark: [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230) (2020)\
 :white_check_mark: [Coursera Reinforcement Learning: Fundamentals](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning) (2020)\
-:computer: [Coursera Reinforcement Learning: Sample-based Learning Methods](https://www.coursera.org/learn/sample-based-learning-methods)\
+:white_check_mark: [Coursera Reinforcement Learning: Sample-based Learning Methods](https://www.coursera.org/learn/sample-based-learning-methods)\
 :soon: [Deep Reinforcement Learning Course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
 
 ## Overview
@@ -65,10 +65,17 @@ By rewarding actions, these techniques focus on finding a balance between explor
 - 9: Pulse-coupled neural network PCNN
 
 ## [Reinforcement Learning](https://github.com/slisystem/machine_learning/tree/master/4_Reinforcement/)
-- 1: K-Armed Bandit 
+- 1: Exploration-Exploitation Trade-Off
 - 2: Markov Decision Processes
-- 3: Values Functions & Bellman Equations
-- 4:Dynamic Programming
+- 3: Value Functions & Bellman Equations
+- 4: Dynamic Programming
+
+### Sample Based Learning
+- 1: Monte Carlo Methods
+- 2: Temporal Difference Learning
+- 3: Sarsa & Q-Learning
+- 4: Dyna Architecture
 
 ![Udacity Certificate](certificate_udacity.png)
 ![Coursera Certificate #1](certificate_coursera_1.png)
+![Coursera Certificate #1](certificate_coursera_2.png)
