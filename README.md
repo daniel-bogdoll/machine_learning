@@ -9,7 +9,7 @@ This repository covers my participation in the courses
 :white_check_mark: [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230) (2020)\
 :white_check_mark: [Coursera Reinforcement Learning: Fundamentals](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning) (2020)\
 :white_check_mark: [Coursera Reinforcement Learning: Sample-based Learning Methods](https://www.coursera.org/learn/sample-based-learning-methods) (2020)\
-:soon: [Deep Reinforcement Learning Course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
+:hourglass: [Deep Q Learning](https://pythonprogramming.net/q-learning-reinforcement-learning-python-tutorial/)
 
 ## Overview
 The courses cover the tiers of machine learning regularly recognized today:
