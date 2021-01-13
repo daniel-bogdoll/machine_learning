@@ -2,14 +2,14 @@
 
 This repository covers my participation in the courses
 
-:white_check_mark: [RWTH Computer Vision](https://www.vision.rwth-aachen.de/course/22/) (2018)\
-:white_check_mark: [RWTH Artificial Neural Networks](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1543&pOrgNr=14549) (2019)\
-:white_check_mark: [RWTH Machine Learning](https://www.vision.rwth-aachen.de/course/31/) (2019)\
-:white_check_mark: [RWTH Data Mining in the Domain of Technical Processes](https://online.rwth-aachen.de/RWTHonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/329079?$ctx=design=ca;lang=en) (2019)\
-:white_check_mark: [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230) (2020)\
-:white_check_mark: [Coursera Reinforcement Learning: Fundamentals](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning) (2020)\
-:white_check_mark: [Coursera Reinforcement Learning: Sample-based Learning Methods](https://www.coursera.org/learn/sample-based-learning-methods) (2020)\
-:hourglass: [Deep Q Learning](https://pythonprogramming.net/q-learning-reinforcement-learning-python-tutorial/)
+:heavy_check_mark: [RWTH Computer Vision](https://www.vision.rwth-aachen.de/course/22/) (2018)\
+:heavy_check_mark: [RWTH Artificial Neural Networks](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1543&pOrgNr=14549) (2019)\
+:heavy_check_mark: [RWTH Machine Learning](https://www.vision.rwth-aachen.de/course/31/) (2019)\
+:heavy_check_mark: [RWTH Data Mining in the Domain of Technical Processes](https://online.rwth-aachen.de/RWTHonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/329079?$ctx=design=ca;lang=en) (2019)\
+:heavy_check_mark: [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230) (2020)\
+:heavy_check_mark: [Coursera Reinforcement Learning: Fundamentals](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning) (2020)\
+:heavy_check_mark: [Coursera Reinforcement Learning: Sample-based Learning Methods](https://www.coursera.org/learn/sample-based-learning-methods) (2020)\
+:heavy_check_mark: [Deep Q Learning](https://pythonprogramming.net/q-learning-reinforcement-learning-python-tutorial/) (2021)
 
 ## Overview
 The courses cover the tiers of machine learning regularly recognized today:
@@ -74,6 +74,7 @@ By rewarding actions, these techniques focus on finding a balance between explor
 - 7: SARSA & Q-Learning
 - 8: Dyna Architecture
 - 9: Neural Network Function Approximation
+- 10: Deep Q-Learning DQN
 
 ![Udacity Certificate](certificate_udacity.png)
 ![Coursera Certificate #1](certificate_coursera_1.png)
